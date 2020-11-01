@@ -11,6 +11,8 @@ body{
     color: #242424;
     border-top: 10px solid #242424;
     background: #F5F5DC;
+    
+    display: flex;
 }
 
 h1{
