@@ -73,3 +73,12 @@ p{
 .column {
   flex: 50%;
 }
+
+/*Media Queries*/
+@media(max-width: 400px){
+    body{
+        color: #ccc;
+        background-color: black;
+    }
+
+}
